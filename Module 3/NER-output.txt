@@ -1,0 +1,2141 @@
+<PERSON>Sam Houston</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, December 31, 1836 51 
+
+<PERSON>James Webb</PERSON> to <ORGANIZATION>Alc6e La Branche</ORGANIZATION>, May 27, 1839 52 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>Richard G. Dunlap</PERSON>, June 3, 1839 53 
+
+<PERSON>Nathaniel Amory</PERSON> to <PERSON>Richard G. Dunlap</PERSON>, July 24, 1839 53 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>Richard G. Dunlap</PERSON>, August 19, 1839 54 
+
+<PERSON>T. Dunlap</PERSON> to <PERSON>Richard G. Dunlap</PERSON>, September 28, 1839 56 
+
+<PERSON>Nathaniel Amory</PERSON> to <PERSON>Richard G. Dunlap</PERSON>, October 25, 1839 56 
+
+<PERSON>John Emberson</PERSON> to <PERSON>Albert Sidney Johnston</PERSON>, September 2, 1839 (extract) 57 
+
+<PERSON>David G. Burnet</PERSON> to <LOCATION>Alc6e La Branche</LOCATION>, November 29, 1839 57 
+
+<PERSON>David G. Burnet</PERSON> to <LOCATION>Alc6e La Branche</LOCATION>, December 3, 1839 59 
+
+<PERSON>David G. Burnet</PERSON> to <ORGANIZATION>Alc</ORGANIZATION>^ <PERSON>La Branche</PERSON>, December 7, 1839 59 
+
+<PERSON>William Scurlock</PERSON> to <PERSON>David G. Burnet</PERSON>, November 30, 1839 60 
+
+<PERSON>William M. Williams</PERSON> to <PERSON>David G. Burnet</PERSON>, November 30, 1839 60 
+
+<PERSON>D. Rowlett</PERSON> to <PERSON>David G. Bumet</PERSON>, undated 61 
+
+<PERSON>David G. Bumet</PERSON> to <LOCATION>Alc6e La Branche</LOCATION>, December 16, 1839 61 
+
+<PERSON>David G. Bumet</PERSON> to <ORGANIZATION>Alc^ La Branche</ORGANIZATION>, December 17, 1839 63 
+
+<PERSON>David G. Bumet</PERSON> to <ORGANIZATION>Alc</ORGANIZATION>^e <LOCATION>La Branche</LOCATION>, December 20, 1839 63 
+
+<PERSON>D. Rowlett</PERSON> to <PERSON>David G. Bumet</PERSON>, January 5, 1840 64 
+
+<PERSON>David G. Bumet</PERSON> to <PERSON>Richard G. Dunlap</PERSON>, January 20, 1840 65 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <ORGANIZATION>Alc^ La Branche</ORGANIZATION>, April 1, 1840 67 
+
+Deposition of <PERSON>Swagerty</PERSON> and others, July 10, 1840 68 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <PERSON>James Hamilton</PERSON> and <PERSON>A. T. Bumley</PERSON>, AugUHt 15, 
+
+1840 69 
+
+<PERSON>Joseph Waplee</PERSON> to <PERSON>Barnard E. Bee</PERSON>, September 19, 1840 71 
+
+<PERSON>Abner S. Lipscomb</PERSON> to Geo. H. Flood, December 13, 1840 72 
+
+<PERSON>Joseph Waplee</PERSON> to <PERSON>Nathaniel Amory</PERSON>, January 5, 1841 72 
+
+<PERSON>Joseph Waples</PERSON> to Geo. H. Flood, January 28, 1841 73 
+
+<PERSON>Joseph Waplee</PERSON> to Geo. H. Flood, February 2, 1841 73 
+
+<PERSON>Joseph Waples</PERSON> to Geo. H. Flood, February 3, 1841 74 
+
+<PERSON>James S. Mayfield</PERSON> to Geo. H. Flood, February 12, 1841 74 
+
+<PERSON>James S. Mayfield</PERSON> to <ORGANIZATION>Barnard E. Bee</ORGANIZATION>, February 17, 1841 75 
+
+<PERSON>James S. Mayfield</PERSON> to Barnard E. Bee, March 22, 1841 77 
+
+Geo. H. Flood to <PERSON>Jamee S. Mayfield</PERSON>, March 25, 1841 79 
+
+<PERSON>James S. Mayfield</PERSON> to Geo. H. Flood, March 29, 1841 80 
+
+Geo. H. Flood to <PERSON>James S. Mayfield</PERSON>, March 31, 1841 81 
+
+<PERSON>James S. Mayfield</PERSON> to <ORGANIZATION>Barnard E. Bee</ORGANIZATION>, April 20, 1841 82 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>Nathaniel Amory</PERSON>, April 24, 1841 86 
+
+<PERSON>Samuel A. Roberta</PERSON> to <ORGANIZATION>Barnard E. Bee</ORGANIZATION>, June 21, 1841 87 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>Barnard E. Bee</PERSON>, July 8, 1841 93 
+
+<PERSON>Samuel A. Roberta</PERSON> to <PERSON>Joseph Eve</PERSON>, August 11, 1841 94 
+
+<PERSON>Samuel A. Roberta</PERSON> to <PERSON>Joseph Eve</PERSON>, August 17, 1841 94 
+
+<PERSON>Samuel A. Roberts</PERSON> to Barnard E. Bee, September 7, 1841 96 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Joseph Eve</PERSON>, July 30, 1842 100 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>A. B. Roman</PERSON>, September 12, 1842 101 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>A. B. Roman</PERSON>, October 29, 1842 101 
+
+Correspondence for 1843-1846 ? 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, January 11, 1843 103 
+
+<PERSON>Joseph Eve</PERSON> to <PERSON>Anson Jones</PERSON>, January 11, 1843 (extract) 106 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, January 20, 1843 107 
+
+<PERSON>J. C. Spencer</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, January 17, 1843 107 
+
+<PERSON>T. Hartley Crawford</PERSON> to <PERSON>Wm. Armstrong</PERSON>, January 12, 1843 107 
+
+<PERSON>R. Jones</PERSON> to <PERSON>W. Davenport</PERSON> and <PERSON>G. Loomis</PERSON>, January 13, 1843 108 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, January 25, 1843 115 
+
+<PERSON>Joseph Eve</PERSON> to <PERSON>Anson Jones</PERSON>, January 26, 1843 118 
+
+<PERSON>M. E. Hale</PERSON> to <PERSON>Joseph Eve</PERSON>, December 27, 1842 119 
+
+Charges for retention of the brig Retrieve 121 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, January 31, 1843 ^ 121 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Joseph Eve</PERSON>, February 5, 1843 122 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, February 10, 1843 123 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, February 14, 1843 124 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, February 16, 1843 125 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Joseph Eve</PERSON>, February 17, 1843 (extract) , 128 
+
+<PERSON>Joseph Eve</PERSON> to <PERSON>Joseph Waples</PERSON>, February 27, 1843 128 
+
+Copy and sunmiary of instructions <ORGANIZATION>United States Department of State</ORGANIZATION> to 
+
+<PERSON>Joseph Eve</PERSON> as charg^ to <LOCATION>Texaa</LOCATION>, June 15, 1841 129 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, March 10, 1843 130 
+
+<PERSON>Joseph Eve</PERSON> to <PERSON>Anson Jones</PERSON>, March 13, 1843 131 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, March 13, 1843 132 
+
+' <PERSON>Daniel Webster</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, March 11, 1843 138 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>William S. Archer</PERSON>, January 10, 1843 ^ . . . 139 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, April 5, 1843 149 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Daniel Webster</PERSON>, March 23, 1843 152 
+
+<PERSON>Joseph Eve</PERSON> to <PERSON>Anson Jones</PERSON>, April 13, 1843 163 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, April 19, 1843 164 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, April 21, 1843 168 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Joseph Eve</PERSON>, April 22, 1843 170 
+
+<PERSON>Joseph Eve</PERSON> to <PERSON>Anson Jones</PERSON>, April 28, 1843 171 
+
+ReubenM. <PERSON>Potter</PERSON> to <PERSON>A. M. Green</PERSON>, March 10, 1843 172 
+
+A. M. Green to <PERSON>Joseph Eve</PERSON>, March 17, 1843 172 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, May 3, 1843 173 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Joseph Eve</PERSON>, May 6, 1843 174 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, May 8, 1843 175 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, May 9, 1843 177 
+
+<PERSON>Joseph W. Robertson</PERSON> to <PERSON>Anson Jones</PERSON>, April 20, 1843 177 
+
+<PERSON>Chas</PERSON>. <PERSON>H. Raymond</PERSON> to <PERSON>Anson Jones</PERSON>, May 12, 1843 178 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Joseph Eve</PERSON>, May 16, 1843 179 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Joseph Eve</PERSON>, May 17, 1843 180 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, June 1, 1843 181 
+
+<PERSON>Jesse Benton</PERSON> to <PERSON>Anson Jones</PERSON>, May 1, 1843 182 
+
+Petition of <PERSON>James Bourland</PERSON> 183 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, June 5, 1843 186 
+
+Petition of <PERSON>Joseph Cooper</PERSON> to the Texan minister 187 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, June 8, 1843 189 
+
+<PERSON>Joseph Eve</PERSON> to President of <LOCATION>Texas</LOCATION> [<LOCATION>Houston</LOCATION>], June 10, 1843 190 
+
+<PERSON>Anson Jonee</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, June 15, 1843 192 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, June 29, 1843 192 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, July 6, 1843 195 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, July 7, 1843 196 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, August 10, 1843 197 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, August 15, 1843 201 
+
+<PERSON>J. M. Porter</PERSON> to <PERSON>H. S. Legar</PERSON>^, May 11, 1843 203 
+
+<PERSON>William Armstrong</PERSON> to <PERSON>T. H. Crawford</PERSON>, April 10, 1843 203 
+
+<PERSON>William Armstrong</PERSON> to <PERSON>T. H. Crawford</PERSON> 203 
+
+<PERSON>Chas</PERSON>. <PERSON>H. Raymond</PERSON> to <PERSON>Anson Jones</PERSON>, August 20, 1843 204 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, August 31, 1843 205 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, September 18, 1843 207 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, September 18, 1843 211 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, September 29, 1843 212 
+
+<PERSON>M. C. Hamilton</PERSON> to <PERSON>Jacob Snively</PERSON>, February 16, 1843 217 
+
+<PERSON>Jacob Snively</PERSON> to Geo. <PERSON>W. HUl</PERSON>, July 9, 1843 218 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, October 16, 1843 221 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, November 4, 1843 224 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, November 30, 1843 228 
+
+<PERSON>W. S. Murphy</PERSON> to <PERSON>Anson Jones</PERSON>, December 1, 1843 230 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, December 13, 1843 232 
+
+<PERSON>W. S. Murphy</PERSON> to <PERSON>Anson Jones</PERSON>, December 24, 1843 236 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, January 2, 1844 236 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, January 20, 1844 239 
+
+<PERSON>A. P. Upshur</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, January 16, 1844 244 
+
+<PERSON>Anson Jonee</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, January 27, 1844 248 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, February 15, 1844 252 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>W. S. Murphy</PERSON>, February 16, 1844 253 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, February 22, 1844 254 
+
+<PERSON>J. H. Brewer</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, January 31, 1844 (extract) 256 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>A. P. Upshur</PERSON>, February 21, 1844 258 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van 2iandt</PERSON>, February 24, 1844 259 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Henderson</PERSON> and <PERSON>Van Zandt</PERSON>, February 25, 1844 259 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, March 5, 1844 261 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, March 20, 1844 263 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, March 22, 1844 264 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, March 25, 1844 264 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, March 26, 1844 265 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, April 6, 1844 267 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, April 12, 1844 268 
+
+<PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON> to <PERSON>Anson Jones</PERSON>, April 12, 1844 269 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Henderson</PERSON> and <PERSON>Van Zandt</PERSON>, April 16, 1844 (extract) 273 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON>, April 29, 1844 274 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON>, May 2, 1844 276 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON>, May 10, 1844 278 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, May 11, 1844 280 
+
+<PERSON>Sam Houaton</PERSON> to <PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON>, May 17, 1844 281 
+
+<PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON> to <PERSON>Anson Jones</PERSON>, May 25, 1844 283 
+
+<PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON> to <PERSON>Anson Jones</PERSON>, June 10, 1844 284 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, June 13, 1844 285 
+
+<PERSON>Van Zandt</PERSON> and <PERSON>Henderson</PERSON> to <PERSON>Anson Jones</PERSON>, June 15, 1844 286 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, June 18, 1844 287 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, July 6, 1844 288 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, July 13, 1844 289 
+
+<PERSON>A. M. Green</PERSON> to <PERSON>Anson Jones</PERSON>, July 14, 1844 290 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>A. M. Green</PERSON>, July 22, 1844 291 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles H. Raymond</PERSON>, July 29, 1844. . .'. 292 
+
+Address of <PERSON>Tilghman A. Howard</PERSON> to <PERSON>Anson Jones</PERSON>, between August 2 and 6, 
+
+1844 293 
+
+<PERSON>Anson Jones</PERSON>'s reply to <PERSON>Howard</PERSON> *s address 294 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles H. Raymond</PERSON>, August 6, 1844 295 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, August 8, 1844 297 
+
+<PERSON>J. H. Brower</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, July 27, 1844 (extract) 299 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, August 16, 1844 300 
+
+Wm. <PERSON>Wilkins</PERSON> to <PERSON>John C. Calhoun</PERSON>, April 24, 1844 301 
+
+Proceedings of Court of Inquiry in case of <PERSON>Cooke</PERSON>, April 24, 1844 (extract). 302 
+
+<PERSON>D. Parker</PERSON> to <PERSON>John C. Calhoun</PERSON>, June 27, 1844 303 
+
+<PERSON>R. Jones</PERSON> to the Secretary of War [of the <LOCATION>United States</LOCATION>], June 27, 1844 303 
+
+<PERSON>R. Jones</PERSON> to <PERSON>Zachary Taylor</PERSON>, March 11, 1844 304 
+
+<PERSON>Zachary Taylor</PERSON> to AdjutantrGeneral [<PERSON>R. Jones</PERSON>], April 2, 1844 304 
+
+<PERSON>G. Loomis</PERSON> to <PERSON>W. W. S. Bliss</PERSON>, April 20, 1843 305 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, August 19, 1844 306 
+
+<PERSON>J. H. Brower</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, August 16, 1844 (extract) 307 
+
+<PERSON>Isaac Van Zandt</PERSON> to <PERSON>Anson Jones</PERSON>, September 11, 1844 309 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Anson Jones</PERSON>, September 12, 1844 310 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Anson Jones</PERSON>, September 19, 1844 312 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Anson Jones</PERSON>, October 1, 1844 313 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>James Reily</PERSON>, October 16, 1844 315 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles H. Raymond</PERSON>, October 24, 1844 316 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Anson Jones</PERSON>, November 27, 1844 317 
+
+<PERSON>A. J. Donelson</PERSON> to <PERSON>Anson Jones</PERSON>, December 2, 1844 318 
+
+M.S. CucuUu to <PERSON>John C. Spencer</PERSON>, April 26, 1844 319 
+
+<PERSON>Balie Peyton</PERSON> to <PERSON>M. S. CucuUu</PERSON>, April 26, 1844 320 
+
+<PERSON>Eddy</PERSON> and <PERSON>Moss</PERSON> to the collector of the customs at <LOCATION>New Orleans</LOCATION>, April 23, 
+
+1843 321 
+
+Agreement of <PERSON>Eddy</PERSON> and <PERSON>Moss</PERSON> with <PERSON>Wm. V. C. Dashiell</PERSON>, April 17, 1844 321 
+
+<PERSON>Notesof Eddy</PERSON> and <PERSON>Moss</PERSON>, April 17, 1844 322 
+
+<PERSON>Charles H. Raymond</PERSON> to the Secretary of <ORGANIZATION>State of Texas</ORGANIZATION> [<PERSON>Jones</PERSON>], December 
+
+4,1844 323 
+
+<PERSON>John C. Calhoun</PERSON> to <PERSON>Charles H. Raymond</PERSON>, December 2, 1844 324 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>John C. Calhoun</PERSON>, December 2, 1844 325 
+
+<PERSON>A. J. Donelson</PERSON> to <PERSON>Anson Jones</PERSON>, December 6, 1844 325 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>A. J. Donelson</PERSON>, December 7, 1844 326 
+
+<PERSON>A. J. Donelson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Allen</PERSON>,. arf interim], December 10, 1844. 327 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>A. J. Donelson</PERSON>, December 11, 1844 327 
+
+<PERSON>A. J. Donelson</PERSON> to <PERSON>Ebenezer Allen</PERSON>, December 13, 1844 328 
+
+<PERSON>Charles H. Raymond</PERSON> to the Secretary of <ORGANIZATION>State of Texas</ORGANIZATION> [<PERSON>Allen</PERSON>], 
+
+December 30, 1844 329 
+
+<PERSON>John C. Calhoun</PERSON> to <PERSON>Charles H. Raymond</PERSON>, December 23, 1844 \ . . 330 
+
+<PERSON>Charlee H. Raymond</PERSON> to <PERSON>John C. Calhoun</PERSON>, December 27, 1844 331 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>A. J. Donelson</PERSON>, January 4, 1845 332 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 4, 1845 334 
+
+<PERSON>A.J. Donelson</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 6, 1845 335 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>Charles H. Raymond</PERSON>, January 10, 1845 337 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 11, 1845 339 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>Charles H. Raymond</PERSON>, January 16, 1845 340 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 16, 1845 341 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>Charles H. Raymond</PERSON>, January 20, 1845 342 
+
+Deposition of <PERSON>George W. Wright</PERSON>, January 18, 1845 343 
+
+Deposition of <PERSON>James Bourland</PERSON>, January 18, 1845 344 
+
+<PERSON>A. J. Donelson</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 20, 1845 346 
+
+<ORGANIZATION>Duff Green</ORGANIZATION> to <PERSON>A. J. Donelson</PERSON>, January 20, 1845 347 
+
+<ORGANIZATION>Williams</ORGANIZATION>, <PERSON>Thurston</PERSON>, and <LOCATION>Meggerson</LOCATION> to <ORGANIZATION>Duff Green</ORGANIZATION>, January 1, 1845 348 
+
+<PERSON>A. J. Donelson</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 21, 1845 349 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>A. J. Donelson</PERSON>, January 21, 1845 350 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 27, 1845 352 
+
+<PERSON>John C. Calhoun</PERSON> to <PERSON>Charles H. Raymond</PERSON>, January 22, 1845 353 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, February 6, 1845 354 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>John C. Calhoun</PERSON>, February 6, 1845 354 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>A. J. Donelson</PERSON>, February 10, 1845 355 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Charles H. Raymond</PERSON>, February 11, 1845 358 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, February 18, 1845 359 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>John C. Calhoun</PERSON>, February 10, 1845 360 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>John C. Calhoun</PERSON>, February 11, 1845 361 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, February 21, 1845 362 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, February 28, 1845 364 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Charles H. Raymond</PERSON>, March 21 , 1845 365 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Stewart Newell</PERSON>, March 24, 1845 366 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ashbel Smith</PERSON>, March 31, 1845 367 
+
+<PERSON>A. J. Donelson</PERSON> to <PERSON>Ebenezer Allen</PERSON>, April 7, 1845 : 369 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, April 30, 1845 374 
+
+<PERSON>Charles H. Raymond</PERSON> to <PERSON>Ebenezer Allen</PERSON>, May 19, 1845 377 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>David S. Kaufman</PERSON>, July 10, 1845 381 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>David S. Kaufman</PERSON>, July 10, 1845 382 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>James K. Polk</PERSON>, July 12, 1845 386 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>William D. Lee</PERSON>, August 2, 1845 388 
+
+<PERSON>T. Hartley Crawford</PERSON> to <PERSON>Andrew J. Donelson</PERSON>, July 29, 1845 390 
+
+<PERSON>E. A. Rhodes</PERSON> to <PERSON>Ebenezer Allen</PERSON>, August 21, 1845 390 
+
+<PERSON>J. Y. Mason</PERSON> to <PERSON>E. A. Rhodes</PERSON>, August 7, 1845 391 
+
+<PERSON>E. A. Rhodes</PERSON> to <PERSON>Ebenezer Allen</PERSON>, August 21, 1845 391 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Zachary Taylor</PERSON>, August 23, 1845 393 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>E. A. Rhodes</PERSON>, August 30, 1845 395 
+
+<PERSON>William D. Lee</PERSON> to <PERSON>Ebenezer Allen</PERSON>, September 8, 1845 398 
+
+<PERSON>James Buchanan</PERSON> to <PERSON>William D. Lee</PERSON>, September 6, 1845 399 
+
+<PERSON>William D. Lee</PERSON> to <PERSON>James Buchanan</PERSON>, September 8, 1845 400 
+
+<PERSON>David S. Kaufman</PERSON> to <PERSON>Ebenezer Allen</PERSON>, September 30, 1845 401 
+
+<PERSON>David S. Kaufman</PERSON> to <PERSON>James Buchanan</PERSON>, September 23, 1845 402 
+
+WilliamD. <PERSON>Lee</PERSON> to <PERSON>Ebenezer Allen</PERSON>, October 8, 1845 406 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>David S. Kaufman</PERSON>, October 15, 1815 409 
+
+<PERSON>William D. Lee</PERSON> to <PERSON>Ebenezer Allen</PERSON>, October 21, 1845 410 
+
+<PERSON>W. L. Marcy</PERSON> to <PERSON>David S. Kaufman</PERSON>, October 10, 1845 410 
+
+<PERSON>David S. Kaufman</PERSON> to <PERSON>Ebenezer Allen</PERSON>, November 3, 1845 411 
+
+<PERSON>William D. Lee</PERSON> to <PERSON>Ebenezer Allen</PERSON>, November 8, 1845 412 
+
+Correspondence with the <LOCATION>United States</LOCATION>? Continued. P?<PERSON>Ke</PERSON>.- 
+
+<PERSON>William D. Lee</PERSON> to <PERSON>James Buchanan</PERSON>, November 6, 1845 413 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>James K. Polk</PERSON>, November 12, 1845 414 
+
+<PERSON>Joseph C. Eldredge</PERSON> to <PERSON>E. A. Rhodes</PERSON>, November 29, 1845 415 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>James K. Polk</PERSON>, February 16, 1846 415 
+
+<PERSON>R. J. Walker</PERSON> to <PERSON>Hiram G. Runnels</PERSON>, March 25, 1846 416 
+
+Correspondence with <LOCATION>Mexico</LOCATION> ? 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON>, May 17, 1836 418 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON>, May 19, 1836 419 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON>, May 20, 1836 420 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON>, May 20, 1836 420 
+
+<PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON> to <PERSON>David G. Burnet</PERSON>, June 4, 1836 421 
+
+<PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON> to <PERSON>David G. Burnet</PERSON>, June 8, 1836 421 
+
+<PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON> to <PERSON>David G. Burnet</PERSON>, June 8, 1836 422 
+
+<PERSON>Anto</PERSON>. <PERSON>Lopez de Santa Anna</PERSON> to <PERSON>Sam Houston</PERSON>, October 24, 1836 423 
+
+<PERSON>Stephen F. Austin</PERSON> to Fran. <PERSON>Pizarro Martinez</PERSON>, November 30, 1836 424 
+
+Geo. <PERSON>W. Hockley</PERSON> to <PERSON>Sam Houston</PERSON>, December 13, 1836 425 
+
+Geo. <PERSON>W. Hockley</PERSON> to <PERSON>Sam Houston</PERSON>, December 13, 1836 426 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>Sam Houston</PERSON>, December 14, 1836 427 
+
+Fran. <PERSON>Pizarro Martinez</PERSON> to <PERSON>Stephen F. Austin</PERSON>, December 29, 1836 428 
+
+<PERSON>A. J. Yates</PERSON> to <PERSON>Stephen F. Austin</PERSON>, January 4, 1837 428 
+
+Correspondent in <LOCATION>Tampico</LOCATION> to <PERSON>T. Toby</PERSON>, January 7, 1837 429 
+
+Correspondent in <LOCATION>Tampico</LOCATION> to <PERSON>T. Toby</PERSON>, January 26, 1837 429 
+
+<PERSON>Antonio Canales</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, December 17, 1838 430 
+
+<PERSON>James Webb</PERSON> to <ORGANIZATION>Barnard E. Bee</ORGANIZATION>, February 20, 1839 432 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, undated 437 
+
+<PERSON>James Webb</PERSON> to <ORGANIZATION>Barnard E. Bee</ORGANIZATION>, March 7, 1839 437 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, April 1, 1839 438 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, April 6, 1839 438 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON> [April 7, 1839] 439 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, iindated 440 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, April 18, 1839 441 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, April 30, 1839 442 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, May 1, 1839 443 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, May 9, 1839 443 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, May 13, 1839 444 
+
+Geo. <PERSON>L. Hammeken</PERSON> to <PERSON>James Hamilton</PERSON>, May 19, 1839 445 
+
+Geo. <PERSON>L. Hanmieken</PERSON> to <PERSON>James Webb</PERSON>, May 20, 1839 446 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, May 24, 1839 447 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, May 28, 1839 449 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, June 22, 1839 450 
+
+<PERSON>J. R. Poinsett</PERSON> to <PERSON>James Hamilton</PERSON>, May 31, 1839 452 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, June 28, 1839 453 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>R. Copeland</PERSON>, June 29, 1839 454 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, June, 1839 455 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, July 5, 1839 457 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, July 6, 1839 458 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, July 8, 1839 459 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, July 9, 1839 460 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, undated 462 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, July, 1839 463 
+
+<PERSON>James Webb</PERSON> to <ORGANIZATION>Barnard E. Bee</ORGANIZATION>, July 11, 1839 464 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>James Webb</PERSON>, July 24, 1839 465 
+
+BaniaxdE. Bee to <PERSON>James Webb</PERSON>, July 26, 1839 466 
+
+<PERSON>Barnard E. Bee</PERSON> to [<PERSON>Lamar</PERSON>], July [?] 3839 467 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, August 1, 1839 468 
+
+<PERSON>Mirabeau B. Lamar</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, August 9, 1839 469 
+
+<PERSON>David G. Burnet</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, August 9, 1839 470 
+
+<PERSON>Barnard E. Bee</PERSON> to <PERSON>David G. Burnet</PERSON>, August 13, 1839 472 
+
+<PERSON>Jacob Barker</PERSON> to <PERSON>Barnard E. Bee</PERSON>, August 32, 1839 474 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, August 33, 3839 475 
+
+DaAdd <PERSON>G. Burnet</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, August 19, 1839 476 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to Mirabeau B. I^mar, September 3, 1839 477 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, September 3, 1839 478 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, September 10, 1839 482 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, September 18, 1839 484 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to Mirabeau B. I^mar, September 18, 1839 486 
+
+A Friend of Treat in <LOCATION>Mexico</LOCATION> to a Friend of Treat in <LOCATION>New Orleans</LOCATION> [Vitalba], 
+
+August 2, 1839 '. 487 
+
+A Friend of Treat in <LOCATION>New Orleans</LOCATION> [Vitalba] to <ORGANIZATION>James Treat</ORGANIZATION>, September 
+
+2,1839 487 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Biumet</PERSON>, September 21, 1839 488 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, Octobers, 1839 490 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, October 10, 1839 492 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, October 23, 1839 494 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Wm. Bryan</PERSON>, November 21, 1839 496 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, November 28, 1839 500 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>David G. Burnet</PERSON>, November 29. 1839 501 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>William Bryan</PERSON>,* December 7, 1839 503 
+
+<PERSON>Juan de Dios Cafiedo</PERSON> to <PERSON>R. Pakenham</PERSON>, December 11, 1839 505 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, December 12, 1839 505 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, December 12, 1839 506 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>James Hamilton</PERSON>, December 16, 1839 507 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, December 20, 1839 512 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>James Hamilton</PERSON>, December 23, 1839 517 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Wm. Bryan</PERSON>, December 25, 1839 518 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>John Merle</PERSON>, December25, 1839 520 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Wm. Bryan</PERSON>, December 27, 1839 520 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, December 31, 1839 523 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>David G. Burnet</PERSON>, January 7, 1840 527 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, January 7, 1840 527 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, January 18, 1840 529 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, January 22, 1840 536 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, January 31, 1840 538 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 1, 1840 542 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 4, 1840 543 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <PERSON>Barnard E. Bee</PERSON>, February 6, 1840 546 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 6, 1840 545 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 7, 1840 548 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Juan de Dios CaAedo</PERSON>, January 24, 1840 550 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Juan de Dios Cafiedo</PERSON>, January 24, 1840 551 
+
+<ORGANIZATION>James Treat to Juan de Dios Cafiedo</ORGANIZATION>, February 7, 1840 553 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 8/ 1840 559 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 8, 1840 560 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 15, 1840 564 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 21, 1840 570 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Juan de Dios Cafiedo</PERSON>, January 24, 1840 572 
+
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Juan Nepomuceno Almonte</PERSON>, January 24, 1840 573 
+
+<ORGANIZATION>James Treat to Juan de Dies Cafiedo</ORGANIZATION>, February 4, 1840. .* 575 
+
+<ORGANIZATION>James Treat to Juan de Dies Cafiedo</ORGANIZATION>, February 10, 1840 576 
+
+<ORGANIZATION>James Treat to Juan de Dios Cafiedo</ORGANIZATION>, February 12, 1840 576 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 22, 1840 577 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, February 29, 1840 579 
+
+<PERSON>David G. Burnet</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, March 12, 1840 581 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>R. Pakenham</PERSON>, March 12, 1840 583 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>R. Pakenham</PERSON>, March 12, 1840 583 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, March 25, 1840 584 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, March 27, 1840. 587 
+
+Propositions of <LOCATION>Texas</LOCATION> to <LOCATION>Mexico</LOCATION>, March 21, 1840 592 
+
+Basis of a Treaty between <LOCATION>Mexico</LOCATION> and <LOCATION>Texas</LOCATION> [March 21, 1840] 592 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to Mirabeau B. I^amar, March 31, 1840 593 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, April 1, 1840 595 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <PERSON>Hamilton</PERSON> and <ORGANIZATION>Burnley</ORGANIZATION>, April 1, 1840 596 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Lipscomb</PERSON>], April 10, 1840 597 
+
+Jas. <ORGANIZATION>Ogilvy</ORGANIZATION> to <PERSON>R. Pakenham</PERSON>, August 20, 1839 597 
+
+Jas. <ORGANIZATION>Ogilvy</ORGANIZATION> to <PERSON>R. Pakenham</PERSON>, August 20, 1839 600 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, April 10, 1840 601 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, April 10, 1840 601 
+
+Correspondent at <PERSON>Vera Cruz</PERSON> to <PERSON>David G. Burnet</PERSON>, April 16, 1840 606 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, April 21, 1840 606 
+
+<ORGANIZATION>James Treat to Juan de Dios Cafiedo</ORGANIZATION>, April 20, 1840 608 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Barnard E. Bee</PERSON>, Februarys, 1840 609 
+
+<PERSON>Barnard E. Bee</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Lipscomb</PERSON>], April 21, 1840 612 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, April 24, 1840 612 
+
+<PERSON>R. Pakenham</PERSON> to <PERSON>David G. Burnet</PERSON>, April 25, 1840 614 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, April 30, 1840 615 
+
+<PERSON>A. S. Wright</PERSON> to <LOCATION>Barnard E. Bee</LOCATION>, August 29, 1839 615 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Barnard E. Bee</PERSON>, November 10, 1839 618 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Barnard E. Bee</PERSON>, November ? , 1839 620 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Barnard E. Bee</PERSON>, November 18, 1839 624 
+
+<PERSON>Barnard E. Bee</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Lipscomb</PERSON>], April 30, 1840 C32 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <PERSON>James Hamilton</PERSON>, May 4, 1840 632 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, May 7, 1840 633 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, May 7, 1840 634 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, May 28, 1840 636 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>James Ritchie</PERSON>, June 3, 1840 639 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, June 3, 1840 640 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, June 6, 1840 641 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, June 13, 1840 642 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, June 14, 1840 646 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, June 19, 1840 649 
+
+<PERSON>Mirabeau B. Lamar</PERSON> to <PERSON>E. W. Moore</PERSON>, June 20, 1840 651 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Barnard E. Bee</PERSON>, June 25, 1840 652 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Barnard E. Bee</PERSON>, July 1, 1840 657 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, July 4, 1840 662 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, July 4, 1840 663 
+
+<ORGANIZATION>James Treat to Juan de Dios Cafiedo</ORGANIZATION>, June 20, 1840 665 
+
+<PERSON>Barnard E. Bee</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, April 28, 1?40 665 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, July 13, 1840 666 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, July 13, 1840 668 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, July 23, 1840 670 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, August 11, 1840 674 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, August 11, 1840 675 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Barnard E. Bee</PERSON>, July 27, 1840 677 
+
+<PERSON>A. S. Wright</PERSON> to <LOCATION>Barnard E. Bee</LOCATION>, August 18, 1840 682 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, August 21, 1840 683 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, August 21, 1840 684 
+
+Memorandum explaining attitude of <LOCATION>Mexico</LOCATION> towards <LOCATION>Texas</LOCATION>, August 19, 
+
+1840 688 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>E. W. Moore</PERSON>, August 21, 1840 690 
+
+<PERSON>E. W. Moore</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, August 25, 1840 693 
+
+<PERSON>E. W. Moore</PERSON> to <PERSON>Muabeau B. Lamar</PERSON>, August 28, 184Q 695 
+
+<PERSON>E. W. Moore</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, August 28, 1840 696 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, September 7, 1840 697 
+
+Memorandum communicated by Treat to Mexican Government, Septem- 
+ber 5, 1840 700 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, September 15, 1840 703 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, September 29, 1840 ?. 704 
+
+Agent of <LOCATION>Texas</LOCATION> [Treat] to Secretary of State of <LOCATION>Mexico</LOCATION> [Cafledo], Septem- 
+ber 21, 1840 706 
+
+Preliminary memorandum for arrangement of armistice between <LOCATION>Mexico</LOCATION> 
+
+and <LOCATION>Texas</LOCATION>, September 25, 1840 708 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, October 6, 1840 708 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, October 17, 1840 711 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, October 25, 1840 711 
+
+<PERSON>E. W. Moore</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, October 29, 1840 713 
+
+<PERSON>E. W. Moore</PERSON> to <PERSON>Joaquin Rivas Sayas</PERSON>, October 16, 1840 714 
+
+<PERSON>Joaquin Rivas Sayas</PERSON> to <PERSON>E. W. Moore</PERSON>, October 17, 1840 715 
+
+<PERSON>Nathaniel Amory</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, November 27, 1840 716 
+
+<PERSON>Juan N. Leplicher</PERSON> to <PERSON>Nathaniel Amory</PERSON>, October 17, 1840 -717 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Nathaniel Amory</PERSON>, October 17, 1840 718 
+
+<PERSON>Juan Vitalba</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, December 8, 1840 720 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>R. Pakenham</PERSON>, October 10, 1840 721 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>R. Pakenham</PERSON>, October 14, 1840 722 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>R. Pakenham</PERSON>, October 14, 1840 723 
+
+<PERSON>R. Pakenham</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, September 29, 1840 723 
+
+Juan de Dies Cafiedo to <PERSON>R. Pakenham</PERSON>, September 26,^.840 725 
+
+<PERSON>R. Pakenham</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, October 14, 1840 726 
+
+<PERSON>R. Pakenham</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, October 15, 1840 726 
+
+<PERSON>R. Pakenham</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, October 21, U540 727 
+
+<PERSON>R. Pakenham</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, November 5, 1840 727 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>E. W. Moore</PERSON>, October 6, 1840 729 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>E. W. Moore</PERSON>, September 30, 1840 729 
+
+<PERSON>A. S. Wright</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, March 18, 1841 731 
+
+<PERSON>James S. May</PERSON> field to <PERSON>James Webb</PERSON>, March 22, 1841 732 
+
+List of Documents furnished <PERSON>Webb</PERSON>, undated 736 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>Cooke</PERSON> and others, June 15, 1841 737' 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>Wm. G. Cooke</PERSON>, June 15, 1841 743 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>Rafael Uribe</PERSON>, June 23, 1841 747 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>Van Ness</PERSON> and <PERSON>Morris</PERSON>, June 24, 1841 748 
+
+<PERSON>Mirabeau B. Lamar</PERSON> to <PERSON>Mariano Arista</PERSON>, June 24, 1841 749 
+
+<PERSON>James Webb</PERSON> to <PERSON>James S. Mayfield</PERSON>, June 29, 1841 751 
+
+<PERSON>James Webb</PERSON> to <PERSON>Ignacio de Mora</PERSON>, May 31, 1841 752 
+
+<PERSON>Ignacio de Mora</PERSON> to <PERSON>James Webb</PERSON>, May 31, 1841 753 
+
+<PERSON>James Webb</PERSON> to <PERSON>R. Pakenham</PERSON>, June 1, 1841 753 
+
+<PERSON>R. Pakenham</PERSON> to <PERSON>James Webb</PERSON>, June 10, 1841 755 
+
+<PERSON>Sebastian Canacho</PERSON> to <PERSON>R. Pakenham</PERSON>, June 8, 1841 757 
+
+<PERSON>R. Pakenham</PERSON> to <PERSON>James S. Mayfield</PERSON>, June 10, 1841 758 
+
+<PERSON>James Webb</PERSON> to <PERSON>R. Pakenham</PERSON>, June 16, 1841 759 
+
+<PERSON>James Webb</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, June 29, 1841 760 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>James Webb</PERSON>, July 7, 1841 766 
+
+<PERSON>John D. Morris</PERSON> to <PERSON>Samuel A. Roberts</PERSON>, September 13, 1841 767 
+
+<PERSON>John D. Morris</PERSON> to <PERSON>Samuel A. Roberts</PERSON>, September 30, 1841 768 
+
+<PERSON>Van Ness</PERSON> and <PERSON>Morris</PERSON> to <PERSON>Rafael Uribe</PERSON> [July 18, 1841) 768 
+
+<PERSON>Van Ness</PERSON> and <PERSON>Morris</PERSON> to <PERSON>Carrasco</PERSON>, July 25, 1841 772 
+
+<PERSON>Van Ness</PERSON> and <PERSON>Morris</PERSON> to <PERSON>Mariano Arista</PERSON>, August 6, 1841 774 
+
+<PERSON>Mariano Arista</PERSON> to <PERSON>Van Ness</PERSON> and <PERSON>Morris</PERSON>, August 8, 1841 776 
+
+<LOCATION>Brenham</LOCATION> and <PERSON>Cooke</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Roberts</PERSON>], November 9, 1841 777 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>James Hamilton</PERSON>, December 26, 1842 784 
+
+<PERSON>Sam Houston</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Jones</PERSON>], June 10, 1843 785 
+
+<PERSON>Sam Houston</PERSON> to*<LOCATION>Hockley</LOCATION> and <PERSON>Williams</PERSON>, February 3, 1843 786 
+
+<PERSON>G. W. Hill</PERSON> to <PERSON>Adrian Woll</PERSON>, July 29, 1844 789 
+
+<PERSON>Reuben M. Potter</PERSON> to <PERSON>Ashbel Smith</PERSON>, March 18, 1845 790 
+
+Correspondence with <PERSON>Yucatan ? 
+
+Mirabeau B. Lamar</PERSON> to Governor of <LOCATION>Yucatan</LOCATION>, July 20, 1841 792 
+
+<PERSON>Miguel Barbachano</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, August 24, 1841 793 
+
+<PERSON>Martin F. Peraza</PERSON> to <PERSON>Samuel A. Roberts</PERSON>, September 11, 1841 794 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>Martin F. Peraza</PERSON>, September 13, 1841 795 
+
+<PERSON>Martin F. Peraza</PERSON> to <PERSON>Samuel A. Roberts</PERSON>, September 18, 1841 796 
+
+<PERSON>E. W. Moore</PERSON> to PedrffLemus, January 13, 1842 797 
+
+<PERSON>Pedro Lemus</PERSON> to <PERSON>E. W. Moore</PERSON>, January 14, 1842 798 
+
+<PERSON>Joaquin G. Rej6n</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Waples</PERSON>, acting], January 18, 1842. . 799 
+
+<PERSON>Joaquin G. Rei6n</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Waples</PERSON>, acting], January 18, 1842. . 800 
+
+Decree of <ORGANIZATION>Yucatdn Congress</ORGANIZATION> concerning the <LOCATION>Zavala</LOCATION>, September 1, 1840. . 801 
+
+Instructions to <PERSON>Peraza</PERSON>, August 24, 1841 801 
+
+<PERSON>Joaquin G. Rej6n</PERSON> to President of <LOCATION>Texas</LOCATION>, April 9, 1842 804 
+
+<PERSON>Pedro Lemus</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Rej6n], April 8, 1842 804 
+
+Correspondence with <LOCATION>Great Britain</LOCATION> ? 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, June 25, 1837 808 
+
+<PERSON>J. Pinckney Hendersdh</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Irion</PERSON>], July 24, 1837 810 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, August 23, 1837 810 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Irion], October 14, 1837 812 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <LOCATION>Lord Palmerston</LOCATION>, October 11, 1837 812 
+
+I^rd <LOCATION>Palmerston</LOCATION> to <PERSON>J. Pinckney Henderson</PERSON>, October 12, 1837 812 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, October 12, 1837 812 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, November 5, 1837 821 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, October 26, 1837 821 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>J. Pinckney Henderson</PERSON>, October 31, 1837 829 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <ORGANIZATION>Lizardi <k Co.</ORGANIZATION>, October 16, 1837 830 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, December 22, 1837 831 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <LOCATION>Lord Palmerston</LOCATION>, December 6, 1837 832 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <LOCATION>Lord Palmerston</LOCATION>, December 15, 1837 832 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>J. Pinckney Henderson</PERSON>, December 18, 1837 832 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, January 6, 1838 836 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, January 5, 1838 839 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, January 30, 1838 843 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <LOCATION>Lord Palmerston</LOCATION>, December 29, 1837 843 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, January 16, 1838 845 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, January 22, 1838 846 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>J. Pinckney Henderson</PERSON>, January 23, 1838 847 
+
+<PERSON>R. A. Irion</PERSON> to Agent of <ORGANIZATION>Lloyds</ORGANIZATION>, March 8, 1838 848 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, March 20, 1838 849 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, April 12, 1838 863 
+
+<PERSON>J. Pinckney Hendereon</PERSON> to <LOCATION>Lord Palmerston</LOCATION>, February 12, 1838 854 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>J. Pinckney Henderson</PERSON>, February 12, 1838 854 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, March 16, 1838 855 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, April 5, 1838 856 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>J. Pinckney Henderson</PERSON>, April 6, 1838 856 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, April 10, 1838 858 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>J. Pinckney Henderson</PERSON>, April 11, 1838 859 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, May 20, 1838 '. 860 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, June 6, 1838 862 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, November 28, 1838 864 
+
+<PERSON>Jamee Hamilton</PERSON> to <PERSON>H. S. Fox</PERSON>, May 20, 1839 867 
+
+<PERSON>H. S. Fox</PERSON> to <PERSON>James Hamilton</PERSON>, May22, 1839 870' 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, June 16, 1839 872 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>Jamee Hamilton</PERSON>, August 19,1839 873 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Burnet], October 16, 1839. . 874 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Burnet], November 24, 1839. 875 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Biumet], November 27, 1839. 876 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>David G. Burnet</PERSON>, January 5, 1840 878 
+
+<PERSON>R. Pakenham</PERSON> to <PERSON>James Hamilton</PERSON>, December 12, 1839 879 
+
+<PERSON>Jamee Hamilton</PERSON> to <PERSON>R. Pakenham</PERSON>, January 2, 1840 *, 881 
+
+<PERSON>Jamee HamUton</PERSON> to <PERSON>R. Pakenham</PERSON>, January 3, 1840 883 
+
+<PERSON>James Buchanan</PERSON> to <PERSON>E. W. Moore</PERSON>, January 7, 1840 885 
+
+<PERSON>E. W. Moore</PERSON> to <PERSON>James Buchanan</PERSON>, January 8, 1840 885 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipecomb</PERSON>, February 25, 1840 886 
+
+<PERSON>Jamee Hamilton</PERSON> to <LOCATION>Lord Palmerston</LOCATION>, February 10, 1840 887 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, April 29, 1840 890 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Abner S. Lipscomb</PERSON>, April 29, 1840 891 
+
+<PERSON>R. Pakenham</PERSON> to <ORGANIZATION>James Treat</ORGANIZATION>, April 26, 1840 892 
+
+Statement of <ORGANIZATION>Claim of Lizardi <k Co.</ORGANIZATION>, November 20, 1839 895 
+
+<ORGANIZATION>James Treat</ORGANIZATION> to <PERSON>Ri</PERSON>. <PERSON>Pakenham</PERSON>, April 28, 1840 897 
+
+<PERSON>Abner S. Lipecomb</PERSON> to <PERSON>R. Pakenham</PERSON>, June 6, 1840 898 
+
+<PERSON>John Taylor</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, July 28, 1840 900 
+
+List of negro subjects of <LOCATION>Great Britain</LOCATION> alleged to be held in slavery in <LOCATION>Texas</LOCATION>, 
+
+undated 902 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipecomb</PERSON>, October 3, 1840 903 
+
+<PERSON>Mirabeau B. Lamar</PERSON> to Lord <PERSON>Russell</PERSON>, October 12, 1840 903 
+
+<PERSON>Joseph Waples</PERSON> to <PERSON>Wm. Barron</PERSON>, October 12, 1840 904 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipecomb</PERSON>, October 19, 1840 905 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, October 22, 1840 906 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, November 1 , 1840 907 
+
+<PERSON>James Hamilton</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, November 5, 1840 909 
+
+<PERSON>Abner S. Lipecomb</PERSON> to <PERSON>Wm. Barron</PERSON>, November 18, 1840 911 
+
+Deposition of <LOCATION>Grigsby</LOCATION>, November 13, 1840 911 
+
+Deposition of <PERSON>Hardin</PERSON>, October 31, 1840 912 
+
+Contract of <PERSON>Taylor</PERSON> and <LOCATION>Ames</LOCATION> with <PERSON>Moore</PERSON>, May 28, 1836 913 
+
+Deposition of <PERSON>Moore</PERSON>, November 2, 1840 914 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, December 3, 1840 914 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Monroe Edwards</PERSON>, November 23, 1840 916 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>James Hamilton</PERSON>, December 2, 1840 916 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, December 3, 1840 917 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, December 3, 1840 919 
+
+<PERSON>Hamilton</PERSON> and <ORGANIZATION>Burnley</ORGANIZATION> to <PERSON>James H. Starr</PERSON>, December 3, 1840 920 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, January 4, 1841 921 
+
+<PERSON>James Hamilton</PERSON> to Lord <LOCATION>Palmerston</LOCATION>, October 1, 1840 925 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>James Hamilton</PERSON>, October 18, 1840 (extract) 926 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, January 4, 1841 926 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>James Hamilton</PERSON>, January 2, 1841 930 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>James Hamilton</PERSON>, February 12, 1841 930 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>James Hamilton</PERSON>, February 12, 1841 931 
+
+A. T. Biimley to <PERSON>David G. Burnet</PERSON>, February 21, 1841 931 
+
+<PERSON>Arthur Ikin</PERSON> to <PERSON>James S. Mayfield</PERSON>, May 18, 1841 936 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>James S. Mayfield</PERSON>, May 18, 1841 937 
+
+Protocol of Conference between <LOCATION>Plenipotentiaries of Great Britain</LOCATION> and 
+
+<LOCATION>Texas</LOCATION>, May 19, 1841 939 
+
+<PERSON>Samuel A. Roberts</PERSON> to <PERSON>James Hamilton</PERSON>, July 5, 1841 939 
+
+<PERSON>John Crawford</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, July 30, 1841 942 
+
+Lord <LOCATION>Palmerston</LOCATION> to <PERSON>Mirabeau B. Lamar</PERSON>, April 8, 1841 942 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Samuel A. Roberts</PERSON>, September 3, 1841 943 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>James Hamilton</PERSON>, January 26, 1842 943 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, February 8, 1842 944 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, February 14, 1842 944 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Nathaniel Amory</PERSON>, February 8, 1842 945 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, February 18, 1842 945 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, March 4, 1842 947 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, March 9, 1842 948 
+
+<PERSON>Arthur Ikin</PERSON> to <PERSON>Anson Jones</PERSON>, March 15, 1842 950 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, April 4, 1842 952 
+
+Geo. <PERSON>Fisher</PERSON> to <PERSON>Anson Jones</PERSON>, April 25, 1842 953 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, May 17, 1842 955 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 3, 1842 959 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 3, 1842 961 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 7, 1842 ^ 963 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 18, 1842 966 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 18, 1842 967 
+
+Lord <LOCATION>Aberdeen</LOCATION> to Secretary of State of <LOCATION>Texas</LOCATION> [<PERSON>Jones</PERSON>], June 28, 1842 969 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 3, 1842 971 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 4, 1842 976 
+
+<PERSON>Ashbel Smith</PERSON> to <ORGANIZATION>Lord Aberdeen</ORGANIZATION>, July 1, 1842 977 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 11, 1842 978 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Edward Everett</PERSON>, May 12, 1842 979 
+
+<PERSON>Edward Everett</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 12, 1842 979 
+
+<PERSON>Edward Everett</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 13, 1842 979 
+
+<PERSON>Edward Everett</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 13, 1842 980 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Samuel Amory</PERSON>, May 13, 1842 980 
+
+<PERSON>Samuel Amory</PERSON> to <PERSON>George K. Teulon</PERSON>, May 13, 1842 980 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Edward Everett</PERSON>, May 13, 1842 981 
+
+<PERSON>Edward Everett</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 15, 1842 ^ 981 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Edward Everett</PERSON>, May 16, 1842 981 
+
+
+A^bel <PERSON>Smith</PERSON> to <ORGANIZATION>Lord Aberdeen</ORGANIZATION>, May 21, 1842 981 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, May 27, 1842 982 
+
+Lord <LOCATION>Aberdeen</LOCATION> to <PERSON>Ashbel Smith</PERSON>, May 30, 1842 982 
+
+<PERSON>M. P. Russell</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 4, 1842 (extract) *.. 982 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>James Reily</PERSON>, June 6, 1842 983 
+
+<PERSON>Ashbel Smith</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, June 7, 1842 984 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, June 14, 1842 985 
+
+Protest against building Steamers in <LOCATION>Great Britain</LOCATION> for use of <LOCATION>Mexico</LOCATION> 
+
+against <LOCATION>Texas</LOCATION>, June 14, 1842 986 
+
+<PERSON>M. P. Russell</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 15, 1842 986 
+
+Lord <LOCATION>Aberdeen</LOCATION> to <PERSON>Ashbel Smith</PERSON>, June 17, 1842 987 
+
+<PERSON>Ashbel Smith</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, June 20, 1842 987 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, June 24, 1842 988 
+
+lx)rd <ORGANIZATION>Aberdeen</ORGANIZATION> to <PERSON>Ashbel Smith</PERSON>, June 25, 1842 988 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. P. Russell</PERSON>, June 22, 1842 988 
+
+<PERSON>Joseph Hume</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 29, 1842 989 
+
+Lachlin M. Rate to <PERSON>Ashbel Smith</PERSON>, June 29, 1842 990 
+
+Memorandum concerning War Steamers to be used against <LOCATION>Texas</LOCATION>, un- 
+dated 990 
+
+Wm. <PERSON>Pringle</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 29 (?), 1842 990 
+
+<PERSON>M. P. Russell</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 30, 1842 991 
+
+<PERSON>William Kennedy</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 30, 1842. 991 
+
+<PERSON>Arthur Ikin</PERSON> to <PERSON>Ashbel Smith</PERSON>, July 1, 1842 992 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Arthur Ikin</PERSON>, July 2, 1842 993 
+
+<ORGANIZATION>Fox Sons & Co.</ORGANIZATION> to <PERSON>Ashbel Smith</PERSON>, July 2, 1842 993 
+
+<PERSON>Ashbel Smith</PERSON> to <ORGANIZATION>Lord Aberdeen</ORGANIZATION>, July 4, 1842 993 
+
+<PERSON>Gabriel Shaw</PERSON> to <PERSON>Ashbel Smith</PERSON>, July 5, 1842 994 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Joseph Hume</PERSON>, July 5, 1842 994 
+
+<PERSON>Ashbel Smith</PERSON> to Lachlin M. Rate, July 7, 1842 994 
+
+Advertisement of Texan Bonds, July, 1842 : . .995 
+
+Wm. <PERSON>Pringle</PERSON> to <PERSON>Ashbel Smith</PERSON>, July 8, 1842 995 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Wm. Pringle</PERSON>, July 8, 1842 995 
+
+Lachlin M. Rate to <PERSON>Ashbel Smith</PERSON>, July 8, 1842 995 
+
+Protocol of Conference between Plenipotentiaries of <LOCATION>Texas</LOCATION> and <LOCATION>Great 
+
+Britain</LOCATION>, June 28, 1842 996 
+
+Certificate of Exchange of Ratification of Convention as to Debt be- 
+tween <LOCATION>Texas</LOCATION> and <LOCATION>Great Britain</LOCATION>, June 28, 1842 997 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 12, 1842 997 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, August 13, 1842 999 
+
+Debate in <ORGANIZATION>House of Commons</ORGANIZATION>, <LOCATION>Mexico</LOCATION> and <LOCATION>Texas</LOCATION>, August 2, 1842 1000 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Wm. Pringle</PERSON>, July 31, 1842 1001 
+
+Wm. <PERSON>Pringle</PERSON> to <PERSON>Ashbel Smith</PERSON>, August4, 1842 1002 
+
+Wm. <PERSON>Pringle</PERSON> to <PERSON>Ashbel Smith</PERSON>, August 5, 1842 1003 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, August 20, 1842 1004 
+
+<PERSON>Charles Elliot</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Jones</PERSON>], August 23, 1842 1009 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Charles Elliot</PERSON>, August 29, 1842 1009 
+
+<PERSON>G. W. Terrell</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, August 30, 1842 1010 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, August 15, 1842 1011 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>G. W. Terrell</PERSON>, September 10, 1842 1012 
+
+<PERSON>Joseph Waples</PERSON> to <PERSON>Charles Elliot</PERSON>, September 14, 1842 1014 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, September 19, 1842 1015 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, September 14, 1842 1017 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>H. U. Addington</PERSON>, September 14, 1842 1018 
+
+
+<PERSON>Ashbel Smith</PERSON> to Texan Consuls, undated 1018 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, September 19, 1842 1019 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, September 19, 1842 1020 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, September 26, 1842 1022 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 3, 1842 1023 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 3, 1842 1024 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, October 5, 1842 1025 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 17, 1842 1026 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 19, 1842 1029 
+
+Lord <ORGANIZATION>Aberdeen</ORGANIZATION> to <PERSON>Ashbel Smith</PERSON>, July 16, 1842 1033 
+
+Lord <LOCATION>Aberdeen</LOCATION> to <PERSON>Ashbel Smith</PERSON>, September 21, 1842 1034 
+
+<ORGANIZATION>Lord Aberdeen</ORGANIZATION> to <PERSON>Ashbel Smith</PERSON>, September 27, 1842 1035 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, October 10, 1842 1037 
+
+Order for Release of Montezuma (extract), undated 1043 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>G. W. Terrell</PERSON>, October 31, 1842. 1043 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, November 25, 1842 1045 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, November 25, 1842 1046 
+
+<PERSON>James Hamilton</PERSON> to Lords of the <ORGANIZATION>Treasury</ORGANIZATION>, undated. 1048 
+
+<PERSON>H. U. Addington</PERSON> to <PERSON>James Hamilton</PERSON>, August 19, 1842 1051 
+
+<PERSON>James Hamilton</PERSON> to Senior Officer of <ORGANIZATION>British Navy</ORGANIZATION>, August 23, 1842 1052 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Charles Elliot</PERSON>, Decembers, 1842 1055 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, December 7, 1842 1056 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>G. W. Terrell</PERSON>, December 13, 1842 1058 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Sam Houston</PERSON>, December 24, 1842 1062 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, December 24, 1842 1063 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, December 30, 1842 1064 
+
+Lord <LOCATION>Aberdeen</LOCATION> to <PERSON>Ashbel Smith</PERSON>, November 8, 1842 1068 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, December 10, 1842 1072 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, December 12, 1842 1073 
+
+. <PERSON>Ashbel Smith</PERSON> to <PERSON>Lachlin M. Rate</PERSON>, December 24, 1842 1077 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, January 17, 1843 1078 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, January 18, 1843. ., 1079 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, January 19, 1843 1080 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, January 23, 1843 1084 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, February 7, 1843 1088 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Charles Elliot</PERSON>, May 6, 1843 1089 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 8, 1843 1090 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, June 10, 1843 1090 
+
+<PERSON>Percy W. Doyle</PERSON> to <PERSON>Charles Elliot</PERSON>, May 27, 1843 (extract) 1091 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, June 15, 1843 1092 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 15, 1843 1093 
+
+<PERSON>Ashbel Smith</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, June 16, 1843 1094 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 16, 1843 1094 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, June 18, 1843 1096 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, June 28, 1843 1097 
+
+<PERSON>Ashbel Smith</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, June 28, 1843 1098 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 2, 1843 1099 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, January 25, 1843 1103 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Isaac Van Zandt</PERSON>, January 25, 1843 (extract) 1107 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 3, 1843 (extract) 1108 
+
+<PERSON>Ashbel Smith</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, July 6, 1843 1109 
+
+<PERSON>Ashbel Smith</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, July 11, 1843 1110 
+
+<PERSON>Ashbel Smith</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, July 17, 1843 1111 
+
+
+<PERSON>Aahbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 21, 1843 1111 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, July 24, 1843 1112 
+
+Bases of Armistice proposed by WoU, July 25, 1843 1113 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, July 30, 1843 1114 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 31, 1843 1116 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, August 17, 1843 1120 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, August 20, 1843 1121 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, August 22, 1843 1122 
+
+<PERSON>Baron de Cetto</PERSON> to <PERSON>Ashbel Smith</PERSON>, August 15, 1843 1122 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Baron de Cetto</PERSON>, August 21, 1843 1123 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, August 28, 1843 1123 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, September 4, 1843 1124 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, September 4, 1843 1125 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, September 15, 1843 1127 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, September 16, 1843 1128 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, September 19, 1843 1129 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, September 20, 1843 1137 
+
+<PERSON>Ashbel Smith</PERSON> to <LOCATION>Lord Aberdeen</LOCATION>, August 10, 1843 1138 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, September 28, 1843 1139 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, September 30, 1843 1140 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, October 28, 1843 1142 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, November 15, 1843 1143 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, November 29, 1843 1144 
+
+<PERSON>Edwaid Everett</PERSON> to <PERSON>Ashbel Smith</PERSON>, October 24, 1843 1144 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Edward Everett</PERSON>, October 31, 1843 1145 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, January 4, 1844 1147 
+
+Declaration concerning disposition of slaves captured on Texan vessels 
+
+February 16, 1844 1147 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, February 16, 1844 1148 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Charles Elliot</PERSON>, February 19, 1844 1149 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, March 22, 1844 1150 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Anson Jones</PERSON>, March 22, 1844 1151 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 18, 1844 1152 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 24, 1844 1153 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, July 14, 1844 1156 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, July 31, 1844 1158 
+
+<ORGANIZATION>Holford & Co.</ORGANIZATION> to <PERSON>Ashbel Smith</PERSON>, undated 1159 
+
+<ORGANIZATION>Holford & Co.</ORGANIZATION> to <PERSON>Ashbel Smith</PERSON>, July 21, 1842 1160 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, August 1, 1844 1160 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, September 27, 1844 1162 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 4, 1844 1164 
+
+<PERSON>William Kennedy</PERSON> to <PERSON>Anson Jones</PERSON>, October 21, 1844 1165 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>G. W. Terrell</PERSON>, October 29, 1844 1166 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>William Kennedy</PERSON>, October 30, 1844 1167 
+
+<PERSON>William Kennedy</PERSON> to <PERSON>Anson Jones</PERSON>, November 8, 1844 1168 
+
+<PERSON>John Hall</PERSON> to <PERSON>William Kennedy</PERSON>, November 13, 1844 1168 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>William Kennedy</PERSON>, December 23, 1844 1169 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, January 21, 1845 1170 
+
+<PERSON>G. W. Terrell</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, January 21, 1845 1173 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, January 27, 1845 1175 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, February 13, 1845 1177 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Ashbel Smith</PERSON>, February 27, 1845 1181 
+
+Receipt of <PERSON>Moore</PERSON> for Powder bought of <PERSON>Chas</PERSON>. Power, December 6, 1841 1182 
+
+
+Bill of M(K)re for Powder boufjht of (ha**. Power, December 6, 1841 1182 
+
+<PERSON>G. W. Terrell</PERSON> to Wm. <PERSON>Henry Daingertield</PERSON>, March 22, 1845 1183 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 3, 1845 1185 
+
+<PERSON>G. W. Terrell</PERSON> to <LOCATION>Lord Clarendon</LOCATION>, May 5, 1845 1186 
+
+G. W.Terrell to <PERSON>Ashbel Smith</PERSON>, May 9, 1845 1190 
+
+LordClarendontoG. W.Terrell, May 10, 1845 1192 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 10, 1845 1193 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Ebenezer Allen</PERSON>, May 17, 1845 1196 
+
+<PERSON>Ashbel Smith</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Allen</PERSON>], June 3, 1845 1198 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>Ashbel Smith</PERSON>, July 2, 1845 1199 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>Charles Elliot</PERSON>, July 10, 1845 1201 
+
+<PERSON>Charles Elliot</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 4, 1846 1203 
+
+Lord <LOCATION>Aberdeen</LOCATION> to <PERSON>Charles Elliot</PERSON>, December 3, 1845 1203 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>Charles Elliot</PERSON>, February 4, 1846 1204 
+
+Correspondence with <LOCATION>France</LOCATION> ? 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, June 2, 1838 1206 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol^, April 28, 1838 1206 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol^, May 26, 1838 1306 
+
+Count Mol6 to <PERSON>J. Pinckney Henderson</PERSON>, May 29, 1838 1207 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol6, June 1, 1838 1208 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, August 7, 1838 1217 
+
+<PERSON>R. A. Irion</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, September 7, 1838 1219 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, October 5; 1838 1220 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol^, August 16, 1838 1220 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol6, September 26, 1838 1221 
+
+Count Mol6 to <PERSON>J. Pinckney Henderson</PERSON>, September 30, 1838 1222 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol^, October 1, 1838 1224 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Irion</PERSON>], October 28, 1838 1227 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>R. A. Irion</PERSON>, October 28, 1838 (extract) 1230 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, October 28, 1838 1230 
+
+<PERSON>J. Pickney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Irion</PERSON>], November 12, 1838 1233 
+
+Count Mol6 to <PERSON>J. Pinckney Henderson</PERSON>, November 2, 1838 1234 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol6, November 7, 1838 1234 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Count Mol6, November 12, 1838 1236 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Irion</PERSON>], November 23, 1838. 1238 
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Bee], January 26, 1839 
+
+(extract) 1239 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, February 26, 1839 1240 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>Barnard E. Bee</PERSON>, February 27, 1839 1241 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Barnard E. Bee, March 10, 1839 1243 
+
+Abb6 Anduz6 to <PERSON>Mirabeau B. Lamar</PERSON>, April 18, 1839 1244 
+
+<PERSON>James Webb</PERSON> to Abb6 Anduz6, April 25, 1839 1245 
+
+<PERSON>James Webb</PERSON> to Admiral <PERSON>Baudin</PERSON>, April 25, 1839 1246 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>James Webb</PERSON>, April 28, 1839 (extract) 1247 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>James Webb</PERSON>, April 28, 1839 1249 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>James Webb</PERSON>, May 14, 1839 1250 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Burnet], June 13, 1839 1252 
+
+<PERSON>Hamilton</PERSON> and <ORGANIZATION>Burnley</ORGANIZATION> to <PERSON>Mirabeau B. Lamar</PERSON>, June 22, 1839 1254 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>David G. Burnet</PERSON>, June 22, 1839 1255 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION>, July 26, 1839 1256 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION>, July 26, 1839 1264 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Burnet], August 5, 1839 1265 
+
+<PERSON>Lewis Cass</PERSON> to <PERSON>J. Pinckney Henderson</PERSON>, August 3, 1839 1265 
+
+<PERSON>David G. Burnet</PERSON> to <PERSON>James Hamilton</PERSON>, August 10, 1839 1268 
+
+<PERSON>J. Pinckney Henderson</PERSON> to <PERSON>David G. Burnet</PERSON>, August 20, 1839 1268 
+
+<PERSON>J. Pinckney Henderson</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [Burnet], October 16, 1839. . 1271 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <PERSON>James Hamilton</PERSON>, February 24, 1840 (extract) 1276 
+
+A. de Saligny to <PERSON>Abner S. Lipscomb</PERSON>, March 6, 1840 1277 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, March 24, 1840 1278 
+
+<PERSON>A. T. Burnley</PERSON> to <PERSON>Mirabeau B. Lamar</PERSON>, January 30, 1841 1280 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, February 1, 1841 1282 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>M. Guizot</PERSON>, January 21, 1841 1285 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, February 7, 1841 1287 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Henry Castro</PERSON>, February 11, 1841 1288 
+
+<PERSON>A. de Saligny</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Mayfield</PERSON>], February 19, 1841 1289 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>A. de Saligny</PERSON>, February 20, 1841 1290 
+
+A. de Saligny to <PERSON>James S. Mayfield</PERSON>, February 21, 1841 1292 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>A. de Saligny</PERSON>, February 22, 1841 1294 
+
+<PERSON>Henry J. Jewett</PERSON> to <PERSON>James S. Mayfield</PERSON>, February 22, 1841 1295 
+
+A. de Saligny to <PERSON>James S. Mayfield</PERSON>, February 23, 1841 1296 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>A. de Saligny</PERSON>, February 23, 1841 1297 
+
+A. de Saligny to <PERSON>James S. Mayfield</PERSON>, February 24, 1841 1298 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>A. de Saligny</PERSON>, February 25, 1841 1300 
+
+A. de Saligny to <PERSON>James S. Mayfield</PERSON>, February 28, 1841 1301 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, March 3, 1841 1302 
+
+<PERSON>James S. Mayfield</PERSON> to A. de Saligny, March 15, 1841 1302 
+
+A . <PERSON>de Saligny</PERSON> to <PERSON>James S. Mayfield</PERSON> , March 21 , 1841 1303 
+
+Saligny*s account with <PERSON>Bullock</PERSON>, March 21, 1841 1305 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>James S. Mayfield</PERSON>, March 25, 1841 1306 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>A. de Saligny</PERSON>, March 29, 1841 1308 
+
+A. de Saligny to <PERSON>James S. Mayfield</PERSON>, March 31, 1841 1316 
+
+<PERSON>James S. Mayfield</PERSON> to Thos. Gales Forster, April 3, 1841 1317 
+
+<PERSON>James S. Mayfield</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, April 3, 1841 1317 
+
+<PERSON>James S. Mayfield</PERSON> to A. de Saligny, April 5, 1841 1318 
+
+<PERSON>James S. Mayfield</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, April 8, 1841 1321 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>Henry J. Jewett</PERSON>, April 25, 1841 1322 
+
+<PERSON>James S. Mayfield</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, May 12, 1841 1323 
+
+Wm. <PERSON>Sevey</PERSON> to <PERSON>James S. Mayfield</PERSON>, March 29, 1841 1329 
+
+<PERSON>James H. Starr</PERSON> to <PERSON>Wm. Sevey</PERSON>, August 4, 1840 1329 
+
+Afladavit of <PERSON>James Latham</PERSON>, July 31, 1840 1329 
+
+Receipt of <PERSON>James Latham</PERSON>, August 1, 1840 1330 
+
+Thos. <PERSON>Gales Forster</PERSON> to <PERSON>James S. Mayfield</PERSON>, April 4, 1841 1330 
+
+<PERSON>Henry J. Jewett</PERSON> to <PERSON>James S. Mayfield</PERSON>, February 24, 1841 1331 
+
+Information given by <PERSON>Henry J. Jewett</PERSON> to <PERSON>A. Hutchinson</PERSON>, February 22, 
+
+1841 1332 
+
+<PERSON>James S. Mayfield</PERSON> to <PERSON>Henry J. Jewett</PERSON>, February 20, 1841 1332 
+
+Warrant for arrest of <PERSON>Bullock</PERSON>, February 22, 1841 1333 
+
+Examination of witnesses in case of <LOCATION>Bullock</LOCATION>, February 23, 1841 1334 
+
+<PERSON>A. Hutchinson</PERSON> to <PERSON>James S. Mayfield</PERSON>, February 23, 1841 1335 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Mirabeau B. Laniar</PERSON>, May 17, 1841 1336 
+
+<PERSON>Nathaniel Amory</PERSON> to <PERSON>James Hamilton</PERSON>, May 15, 1841 1338 
+
+<PERSON>Nathaniel Amory</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, May 30, 1841 1339 
+
+<PERSON>Nathaniel Amory</PERSON> to <PERSON>James Hamilton</PERSON>, May 30, 1841 1339 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>James S. Mayfield</PERSON>, July 16, 1841 1340 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>M. Guizot</PERSON>, July 12, 1841 1341 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>James S. Mayfield</PERSON>, July 22, 1841 1343 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>M. Guizot</PERSON>, July 21, 1841 1343 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Roberts</PERSON>], September 8, 1841 1344 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to <PERSON>M. Guizot</PERSON>, July 4, 1841 1344 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to <PERSON>M. Guizot</PERSON>, August 12, 1841 1348 
+
+<PERSON>M. Guizot</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, August 18, 1841 1349 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to <PERSON>M. Guizot</PERSON>, September 3, 1841 1350 
+
+<PERSON>Samuel A. Roberts</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, September 26, 1841 1352 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to <PERSON>James S. Mayfield</PERSON>, November 15, 1841 1353 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>Anson Jones</PERSON>, January 16, 1842 1353 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>George S. Mcintosh</PERSON>, January 20, 1842 1354 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, February 5, 1842 1356 
+
+<PERSON>Anson Jones</PERSON> to A. de Saligny, March 2, 1842 1357 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, March 15, 1842 1358 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, March 16, 1842 1359 
+
+Document from French consul at <PERSON>Vera Cruz</PERSON> respecting property of <PERSON>M. 
+
+Faure</PERSON>, captured by Texan squadron *. 1361 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>Anson Jones</PERSON>, April 29, 1842 1362 
+
+Alleye de Cyprey to <PERSON>A. de Saligny</PERSON>, December 30, 1840 1363 
+
+J. Bte. <PERSON>Sisosto A. Gloux</PERSON>, December 16, 1840 1363 
+
+<PERSON>A. Gloux</PERSON> to <LOCATION>Alleye de Cyprey</LOCATION>, December 19, 1840 1364 
+
+Invoice of goods shipped on <LOCATION>Santa Maria</LOCATION>, November 29, 1840 1365 
+
+Declaration of <PERSON>Wyse</PERSON> as to goods shipped on <LOCATION>Santa Maria</LOCATION>, October 28, 1840. 1365 
+
+Invoice of goods shipped on <LOCATION>Santa Maria</LOCATION>, October 28, 1840 1366 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Jones</PERSON>], May 17, 1842 1366 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>Sam Houston</PERSON>, June 6, 1842 1368 
+
+Memorandum relative to <PERSON>Saligny</PERSON> 's investments in Texan bonds 1368 
+
+Receipt of <PERSON>Charles Demorse</PERSON> for money on deposit received from <LOCATION>Saligny</LOCATION>, 
+
+November 27, 1840 1369 
+
+Statement by <PERSON>Saligny</PERSON> respecting ownership of money deposited with 
+
+<PERSON>Charles Demorse</PERSON>, November 28, 1840 1370 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>Anson Jones</PERSON>, June 7, 1842 1370 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>A. de Saligny</PERSON>, June 8, 1842 1370 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>A. de Saligny</PERSON>, June 8, 1842 1371 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>Anson Jones</PERSON>, June 20, 1842 1372 
+
+<PERSON>Ashbel Smith</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, May 12, 1842 1374 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Theodore Barbey</PERSON>, May 13, 1842 1374 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 18, 1842 1375 
+
+<PERSON>Henry Castro</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 23, 1842 1375 
+
+<PERSON>Ashbel Smith</PERSON> to Geo. <PERSON>S. Mcintosh</PERSON>, June 1, 1842 1376 
+
+<PERSON>Henry Castro</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 4, 1842 (extract) 1377 
+
+<PERSON>Henry Castro</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 12, 1842 1377 
+
+<PERSON>Henry Castro</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 15, 1842 1377 
+
+<PERSON>Theodore Barbey</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 28, 1842 1379 
+
+<PERSON>Henry Castro</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 28, 1842 1380 
+
+Geo. <PERSON>S. Mcintosh</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 29, 1842 1380 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Theodore Barbey</PERSON>, June 30, 1842 1381 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Ashbel Smith</PERSON>, July 15, 1842 1381 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, August 1, 1842 1382 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, August 15, 1842 1383 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, August 31, 1842 1385 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, August 15, 1842 1387 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 21, 1842 1389 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 31, 1842 1390 
+
+
+<PERSON>Aflbbel Smith</PERSON> to <PERSON>Anaon Jones</PERSON>, November 2, 1842 1392 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, November 11, 1842 1393 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, November 12, 1842 1394 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, November 13, 1842 1395 
+
+<PERSON>M. Guizot</PERSON> to <PERSON>Ashbel Smith</PERSON>, August 22, 1842 1397 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guisot</PERSON>, November 4, 1842 1397 
+
+<PERSON>M. Guizot</PERSON> to <PERSON>Ashbel Smith</PERSON>, November 8, 1842 1398 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, November 10, 1842 1399 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, November 30, 1842 1399 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, December 10, 1842 1403 
+
+<PERSON>Anson Jones</PERSON> to Ashbel.Smith, December 23, 1842 1405 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, December 26, 1842 1407 
+
+<PERSON>Anson Jones</PERSON> to Al. Bourgeois, December 26, 1842 1410 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, December 30, 1842 1410 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, January 11, 1843 1412 
+
+<PERSON>Viscount J. de Cramayel</PERSON> to <PERSON>Anson Jones</PERSON>, January 16, 1843 1413 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, January 28, 1843 1415 
+
+<PERSON>Viscount J. de Cramayel</PERSON> to <PERSON>Anson Jones</PERSON>, January 28, 1843 1417 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Viscount J. de Cramayel</PERSON>, February 9, 1843 1418 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Viscount J. de Cramayel</PERSON>, February 22, 1843 1421 
+
+Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Jones</PERSON>] to <PERSON>Ashbel Smith</PERSON>, February 26, 1843 1422 
+
+<PERSON>Viscount J. de Cramayel</PERSON> to <PERSON>Anson Jones</PERSON>, March ? , 1843 1424 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, March 31, 1843 1427 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, April 11, 1843 1431 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, February 19, 1843 1433 
+
+<PERSON>M. Guizot</PERSON> to <PERSON>Ashbel Smith</PERSON>, February 28, 1843 1434 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, March 6, 1843 1434 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, March 30, 1843 1435 
+
+<PERSON>M. Guizot</PERSON> to <PERSON>Ashbel Smith</PERSON>, April 8, 1843 1436 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, April [4], 1843 1437 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, April 15, 1843 1438 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, April 27, 1843 1441 
+
+<PERSON>M. Guizot</PERSON> to <LOCATION>Ashbel Smithy</LOCATION> undated i 1442 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, April 25, 1843 1443 
+
+<PERSON>Henry Castro</PERSON> to <PERSON>Ashbel Smith</PERSON>, March 5, 1843 1444 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Henry Castro</PERSON>, March 23, 1843 1444 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Viscount J. de Cramayel</PERSON>, May 6, 1843 1445 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Viscount J. de Cramayel</PERSON>, May 17, 1843 14l5 
+
+<PERSON>Viscount J. de Cramayel</PERSON> to <PERSON>Anson Jones</PERSON>, June 10, 1843 1447 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 12, 1843 1448 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Viscoimt J. de Cramayel</PERSON>, June 15, 1843 1448 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 16, 1843 1449 
+
+<PERSON>M. Guizot</PERSON> to <PERSON>Ashbel Smith</PERSON>, April 28, 1843 1450 
+
+<PERSON>M. Guizot</PERSON> to <PERSON>Ashbel Smith</PERSON>, May 8, 1843 1451 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 17, 1843 1451 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, June 21, 1843 1452 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Anson Jones</PERSON>, June 27, 1843 1453 
+
+A. Somervell to <PERSON>M. C. Hamilton</PERSON>, June 27, 1843 1455 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, June 28, 1843 1456 
+
+<PERSON>Viscount J. de Cramayel</PERSON> to <PERSON>Anson Jones</PERSON>, July 20, 1843 1458 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> <PERSON>Jones</PERSON>, July 31, 1843 1458 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, August 15, 1843 1460 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>M. Guizot</PERSON>, August 23, 1843 1461 
+
+<PERSON>Asbbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, September 19, 1843 1462 
+
+<PERSON>Viscount J. de Cramayel</PERSON> to <PERSON>Anson Jones</PERSON>, September 30, 1843 1464 
+
+<PERSON>Sam Houston</PERSON> to <PERSON>Anson Jones</PERSON>, October 6, 1843 .: 1467 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 14, 1843 1467 
+
+Al. Bourgeois to <PERSON>Ashbel Smith</PERSON>, October 8, 1843 1468 
+
+<PERSON>Charles de Castell</PERSON> to Al. Bourgeois, September 26, 1843 1469 
+
+<PERSON>Ashbel Smith</PERSON> to Al. Bourgeois, October 3, 1843 1470 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Viscount J. de Cramayel</PERSON>, October 20, 1843 1471 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 30, 1843 1472 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Ashbel Smith</PERSON>, November 8, 1843 1474 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, December 30, 1843 1476 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, January 29, 1844 1478 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, February 26, 1844 1479 
+
+?<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, March 26, 1844 1482 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, May 6, 1844 1483 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, June 2, 1844 1485 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, August 13, 1844 1488 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, October 16, 1844 1489 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, November 13, 1844 1490 
+
+<PERSON>M. Guizot</PERSON> to <PERSON>Anson Jones</PERSON>, December 4, 1844 1492 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>Ashbel Smith</PERSON>, March 4, 1845 1492 
+
+<PERSON>Ashbel Smith</PERSON> to A. de Saligny, March 13, 1845 1493 
+
+<PERSON>G. W. Terrell</PERSON> to <PERSON>Ashbel Smith</PERSON>, March 18, 1845 1494 
+
+<PERSON>Terrell</PERSON>'s address to the King of <LOCATION>France</LOCATION>, undated 1496 
+
+Reply of the King of <LOCATION>France</LOCATION> to <PERSON>Terrell</PERSON>'s address, undated 1497 
+
+G . W. TerreU to <PERSON>M. Guizot</PERSON>, March 15, 1845 1498 
+
+<PERSON>Ashbel Smith</PERSON> to A. de Saligny, March 21, 1845 1503 
+
+<PERSON>A. de Saligny</PERSON> to <PERSON>Ebenezer Allen</PERSON>, January 14, 1846 1504 
+
+<PERSON>Ebenezer Allen</PERSON> to <PERSON>A. de Saligny</PERSON>, February 10, 1846 1505 
+
+Correspondence with <LOCATION>Spain</LOCATION> ? 
+
+<PERSON>Ashbel Smith</PERSON> to <ORGANIZATION>Washington Irving</ORGANIZATION>, September 7, 1842 1507 
+
+<PERSON>Ashbel Smith</PERSON> to <PERSON>Anson Jones</PERSON>, September 8, 1842 1508 
+
+<PERSON>Ashbel Smith</PERSON> to General <PERSON>Sancho</PERSON>, September 7, 1842 1512 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Ashbel Smith</PERSON>, February 16, 1843 1514 
+
+<PERSON>Ashbel Smith</PERSON> to <ORGANIZATION>Martinez de La Rosa</ORGANIZATION>, February, 1844 1516 
+
+Correspondence with <LOCATION>Prussia</LOCATION> ? 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Lachlin M. Rate</PERSON>, January 26, 1845 1519 
+
+Wm. <PERSON>Hienry Daingerfield</PERSON> to <PERSON>Baron Roenne</PERSON>, January 27, 1845 1520 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>G. W. Terrell</PERSON>, February 5, 1845 1521 
+
+Correspondence with <LOCATION>Belgium</LOCATION> ? 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, September 10, 1840 1524 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, January 4, 1841 1525 
+
+<PERSON>James Hamilton</PERSON> to Secretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Roberts</PERSON>], November 3, 1841 1527 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>Victor Pirson</PERSON>, March 4, 1842 1528 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, May 16, 1843 1529 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to Count d' <PERSON>Alviella</PERSON>, December 14, 1843 1530 
+
+Correspondence with the <LOCATION>Netherlands</LOCATION> ? 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, July 3, 1840 1531 
+
+<PERSON>Abner S. Lipscomb</PERSON> to <PERSON>James Hamilton</PERSON>, September 15, 1840 1532 
+
+<PERSON>James Hamilton</PERSON> to <PERSON>Abner S. Lipscomb</PERSON>, October 3, 1840 1532 
+
+<PERSON>Anson Jones</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, March 26, 1842 1533 
+
+<PERSON>Anson Jones</PERSON> to <PERSON>James Hamilton</PERSON>, June 4, 1842 1534 
+
+<PERSON>Anson Jones</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, January 20, 1843 1534 
+
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, November 12, 1843 1537 
+
+<PERSON>Henry Castro</PERSON> to <PERSON>Anson Jones</PERSON>, October 25, 1843 1540 
+
+<PERSON>Anson Jones</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, July 14, 1844 1542 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Lachlin M. Rate</PERSON>, December 12, 1844 1543 
+
+Correspondence with the Hanse Towns ? 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, February 3, 1843 1545 
+
+<PERSON>Anson Jones</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, February 20, 1843 1546 
+
+Memorandum of <LOCATION>Daingerfield</LOCATION>, September 9, 1843 1547 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, September 25, 1843 1548 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>V. Rumpff</PERSON>, January 5, 1844 1553 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Ashbel Smith</PERSON>, February 14, 1844 1554 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>V. Rumpff</PERSON>, March 17, 1844 1555 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>V. Rumpff</PERSON>, March 27, 1844 1556 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, April 20, 1844 1557 
+
+AI. BourgeoistoSecretary of <ORGANIZATION>State</ORGANIZATION> [<PERSON>Jones</PERSON>], April 20, 1844 1561 
+
+Convention of Friendship, <ORGANIZATION>Commerce</ORGANIZATION>, and Navigation between the Repub- 
+lic of <LOCATION>Texas</LOCATION> and the Hanseatic Republics of <LOCATION>Lubeck</LOCATION>, <LOCATION>Bremen</LOCATION>, and Ham- 
+burg, April 17, 1844 1563 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, April 22, 1844 1569 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Anson Jones</PERSON>, July 28, 1844 1570 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to Senator <PERSON>Gildmeister</PERSON>, December 21, 1844 1573 
+
+<PERSON>R. Sieveking</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, January 13, 1845 1574 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>G. W. Terrell</PERSON>, January 14, 1845 1574 
+
+<PERSON>Ashbel Smith</PERSON> to Wm. <PERSON>Henry Daingerfield</PERSON>, February 13, 1845 1576 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Ebenezer Allen</PERSON>, July 1, 1845 1577 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Ashbel Smith</PERSON>, July 1, 1845 1579 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>R. Sieveking</PERSON>, October 1, 1845 1582 
+
+Wm. <PERSON>Henry Daingerfield</PERSON> to <PERSON>Ebenezer Allen</PERSON>, February 2, 1846 1582 
+
+Correspondence with the Papal States 1583 

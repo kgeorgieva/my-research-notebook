@@ -1,6 +1,8 @@
 # Exercise 4
 
-In this exercise we are told to upload a csv to overview. It says in the exercise that there are options to ignore words and to add importance to words, but I don't see this anywhere.
+In this exercise we are told to upload a csv to overview. It says in the exercise that there are options to ignore words and to add importance to words, but I don't see this anywhere (as depicted below).
+
+![](https://raw.githubusercontent.com/kgeorgieva/my-research-notebook/master/Module%204/images/missing%20option.PNG)
 
 I played around trying to get as much information as possible on agriculture as it seemed to be a less common topic. 
 

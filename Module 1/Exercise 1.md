@@ -21,7 +21,7 @@ Originally [my masters dissertation](http://repository.up.ac.za/handle/2263/4377
 
 Even though I couldn't mix the fields in my dissertation, I still try to contribute to the field by blogging about it. My blog, which can be found [here](https://computationalarchaeology.wordpress.com/), tries to:
 
-* Share news of technology used to aid the field of archaeolohy
+* Share news of technology used to aid the field of archaeology
 * Share resources relevant to the field, such as research papers, blogs, datasets, etc.
 * Share my own experiences in the field, such as finding 3D models of archaeological sites when travelling, or doing a presentation about the field.
 * Share announcements, such as relevant events
